@@ -1,0 +1,18 @@
+###############################################################################################
+# Users file.                                                                                 #
+#                                                                                             #
+# User credentialling information is stored in this file.                                     #
+# The password is NOT stored as plain text. It is salted and hashed. Both the Salt and Hash   #
+# are stored in this file.                                                                    #
+# If you are interested in cryptography/security, or just want to know about WHY we are       #
+# storing the password this way, you might find the following links as interesting starting   #
+# points:                                                                                     #
+#    https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/           #
+#    https://en.wikipedia.org/wiki/Salt_(cryptography)                                        #
+#                                                                                             #
+# Line Format                                                                                 #
+# username;salt;hash;campus                                                                   #
+###############################################################################################
+test;-108:27:105:57:-42:126:-48:-42:-95:-85:-54:-54:-22:123:93:-120:;-121:11:11:-34:-9:-72:21:-9:-106:118:107:5:-111:-44:6:-43:;Tacoma
+Duyvu;-89:85:-111:-41:-46:13:-3:64:-83:-114:-58:14:-24:-88:50:-100:;-72:85:57:50:-53:106:36:-98:-85:42:81:69:61:12:6:-6:;Tacoma
+Duyvu1;114:-20:95:-74:79:115:53:-25:-68:114:2:91:-4:70:-114:-88:;85:-48:37:-94:55:-20:83:-73:49:33:11:108:-118:71:-50:-59:;Tacoma
